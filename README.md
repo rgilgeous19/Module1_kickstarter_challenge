@@ -11,10 +11,10 @@
       
       
   ##### Analysis and Challenges
-        Based on the _Theater Outcomes by Launch Date_ analysis, I can see that 61.2% of the plays has been successful, 
+        Based on the __Theater Outcomes by Launch Date__ analysis, I can see that 61.2% of the plays has been successful, 
         36% has failed and 2.8% has been cancelled. The most successful month was May, while the most failed 
         outcomes were also in May. There have also been less than 10 cancelations for each month for one year. 
         
-        ![image](https://user-images.githubusercontent.com/103302566/163312102-bff5c889-ae3a-4a7b-aa70-77dd25f204c8.png)
+       
 
         
