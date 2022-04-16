@@ -33,6 +33,11 @@
 
 
    ### _Challenges and Difficulties Encountered_
+       One of the challenges I faced was the fact there was not enough information in this dataset. I was instructed
+       to only work with the 'goal' and 'outcomes' so that I could not pin point the data to give a more accurate 
+       recommendation to Louise. However, I had to work with the information I had to give a more general recommendation  
+       to Louise. 
+       
   
   ## Results
       
