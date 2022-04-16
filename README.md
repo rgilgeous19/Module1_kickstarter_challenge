@@ -47,7 +47,7 @@
          outcomes, even though there were 146 failed outcomes in this goal range.
          
       **Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
-        between $1000 and $4999.
+        between $1000 and $4999.**
          
       - Some limitations on the dataset would be that the amount pledged, name of play, and country were not included. The amount
         pledged could have told us 
