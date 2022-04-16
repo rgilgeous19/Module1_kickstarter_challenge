@@ -55,4 +55,6 @@
         additional information to know which specific plays, which goals were met and which country, in order to significantly 
         increase the chances of her play being successful.
         
-      - Some other graphs I would have used is the Pie Chart and the Box & Whisker. The Pie Chart would 
+      - Some other graphs I would have used is the Pie Chart and the Box & Whisker. The Pie Chart would have given me a clear 
+        visualization of the data in front of me and the Box & Whisker could have pin pointed exactly where the data is, without me 
+        trying to follow along the lines of a line graph. 
