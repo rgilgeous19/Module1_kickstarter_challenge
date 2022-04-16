@@ -36,11 +36,18 @@
   
   ### _Results_
       
-      - Two conclusions that I was able to draw from 'Outcomes based on Launced Date" data set are:
+      - Two conclusions that I was able to draw from 'Outcomes Based on Launced Date" data set are:
          (1) We can safely assume that the number of failed outcomes will be half of the number of successful 
              every month.
         
          (2) Louise should sell tickets for her play in the month of May. That's the month where the outcomes were 
              most sucessful and the failed outcomes were less than 50%.
              
-      -  
+      -  Based on the data from 'Outcomes Based on Goals', the outcomes from the goal '1000 to 4999' procuded the most successful
+         outcomes, even though there were 146 failed outcomes in this goal range.
+         
+      **Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
+        between $1000 and $4999.
+         
+      - Some limitations on the dataset would be that the amount pledged, name of play, and country were not included. The amount
+        pledged could have told us 
