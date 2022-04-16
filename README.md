@@ -3,10 +3,10 @@
  ## Overview of Project
      
   ### _Purpose_
-      The overview of the project is to create two new analyses for Louise's play.The purpose of the project is 
-      to analyze and determine whether there are specific factors to make a project's campaign successful.
-      I determine if different plays have been more successful, failedor canceled based on their launch date
-      or by the goals set the play.
+      The overview of the project is to create two new analyses for Louise's play.The purpose
+      of the project is to analyze and determine whether there are specific factors to make
+      a project's campaign successful.  determine if different plays have been more successful, 
+      failed or canceled based on their launche date or by the goals set in the plays.
       
 ## Analysis and Challenges
       
