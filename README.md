@@ -13,8 +13,8 @@
    ### _Analysis of Outcomes Bases on Launch Date_
        Based on the 'Theater Outcomes by Launch Date' analysis, I can see that 61.2% of the plays has been successful, 
        36% has failed and 2.8% has been cancelled. The most successful month was May, while the most failed 
-       outcomes were also in May. There has also been less than 10 cancelations for each month for one year. 
-        
+       outcomes were also in May. There has also been less than 10 cancelations for each month for one year.For every
+       month during the year, there was 50% failed outcomes than that of the successful outcomes. 
  
        
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103302566/163313222-edc964f3-caf7-4179-a7e3-d09ee7244af9.png)
@@ -26,6 +26,7 @@
        successful plays compared to the number of successful plays within the >1000 goal. Even if I deducted the
        number of failed plays within the 1000 to 4999 range, there are still 101 plays more successful than that 
        of the successful plays in the >1000 goal. There has also been 0 cancellations of plays within all the goal ranges. 
+       Overall, 67% of the plays were successful.
        
  
  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103302566/163315744-4273b7a1-137e-4695-9687-81c9ec6fc958.png)
@@ -35,4 +36,11 @@
   
   ### _Results_
       
-  
+      - Two conclusions that I was able to draw from 'Outcomes based on Launced Date" data set are:
+         (1) We can safely assume that the number of failed outcomes will be half of the number of successful 
+             every month.
+        
+         (2) Louise should sell tickets for her play in the month of May. That's the month where the outcomes were 
+             most sucessful and the failed outcomes were less than 50%.
+             
+      -  
