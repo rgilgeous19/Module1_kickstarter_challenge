@@ -5,7 +5,7 @@
   ### _Purpose_
       The overview of the project is to create two new analyses for Louise's play.The purpose
       of the project is to analyze and determine whether there are specific factors to make
-      a project's campaign successful.  determine if different plays have been more successful, 
+      a project's campaign successful and to determine if different plays have been more successful, 
       failed or canceled based on their launche date or by the goals set in the plays.
       
 ## Analysis and Challenges
@@ -13,8 +13,8 @@
    ### _Analysis of Outcomes Bases on Launch Date_
        Based on the 'Theater Outcomes by Launch Date' analysis, I can see that 61.2% of the plays has been successful, 
        36% has failed and 2.8% has been cancelled. The most successful month was May, while the most failed 
-       outcomes were also in May. There has also been less than 10 cancelations for each month for one year.For every
-       month during the year, there was 50% failed outcomes than that of the successful outcomes. 
+       outcomes were also in May.For every month during the year, there was 50% failed outcomes than that of the
+       successful outcomes. There has also been less than 10 cancelations for each month for one year. 
  
        
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103302566/163313222-edc964f3-caf7-4179-a7e3-d09ee7244af9.png)
@@ -32,9 +32,9 @@
  ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/103302566/163315744-4273b7a1-137e-4695-9687-81c9ec6fc958.png)
 
 
-## Challenges and Difficulties Encountered
+   ### _Challenges and Difficulties Encountered_
   
-  ### _Results_
+  ## Results
       
       - Two conclusions that I was able to draw from 'Outcomes Based on Launced Date" data set are:
          (1) We can safely assume that the number of failed outcomes will be half of the number of successful 
