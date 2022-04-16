@@ -46,8 +46,8 @@
       -  Based on the data from 'Outcomes Based on Goals', the outcomes from the goal '1000 to 4999' procuded the most successful
          outcomes, even though there were 146 failed outcomes in this goal range.
          
-      **Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
-        between $1000 and $4999.**
+      _Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
+        between $1000 and $4999._
          
       - Some limitations on the dataset would be that the amount pledged, name of play, and country were not included. The amount
         pledged could have told us 
