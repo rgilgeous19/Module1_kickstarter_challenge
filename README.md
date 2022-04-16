@@ -19,6 +19,7 @@
        
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/103302566/163313222-edc964f3-caf7-4179-a7e3-d09ee7244af9.png)
 
+
    ### _Analysis of Outcomes Based on Goals_
        Based on the 'Outcomes Based on Goals' analysis, the highest number of successful plays is 388 with a goal of
        $1000 to $4999 while the highest number of failed plays was 146 also at a goal of $1000 to $4999. Even
