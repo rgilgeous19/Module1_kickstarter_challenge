@@ -43,11 +43,16 @@
          (2) Louise should sell tickets for her play in the month of May. That's the month where the outcomes were 
              most sucessful and the failed outcomes were less than 50%.
              
-      -  Based on the data from 'Outcomes Based on Goals', the outcomes from the goal '1000 to 4999' procuded the most successful
-         outcomes, even though there were 146 failed outcomes in this goal range.
+      - Based on the data from 'Outcomes Based on Goals', the outcomes from the goal '1000 to 4999' procuded the most successful
+        outcomes, even though there were 146 failed outcomes in this goal range.
          
-      _Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
-        between $1000 and $4999._
+      * Based on the data I have collected, I would advise Loiuse to launch the play in the month of May and prices the tickets
+        between $1000 and $4999.
          
       - Some limitations on the dataset would be that the amount pledged, name of play, and country were not included. The amount
-        pledged could have told us 
+        pledged could have told us how much of the goal was actually achieved. The name of the plays would have told us exacly 
+        which plays were successful and the country would have narrowed the information down even more. Louise could have used this 
+        additional information to know which specific plays, which goals were met and which country, in order to significantly 
+        increase the chances of her play being successful.
+        
+      - Some other graphs I would have used is the Pie Chart and the Box & Whisker. The Pie Chart would 
